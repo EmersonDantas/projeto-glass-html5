@@ -240,6 +240,10 @@ aside#lateral h2{
     padding: 5px;
 }
 
+video#filme-lateral{
+    width:350px;
+}
+
 footer#rodape{
     clear:both;
     border-top: 1px solid #606060;
